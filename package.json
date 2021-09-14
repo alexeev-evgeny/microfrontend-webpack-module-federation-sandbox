@@ -1,0 +1,8 @@
+{
+  "scripts": {
+    "vc": "node_modules/@vue/cli/bin/vue.js"
+  },
+  "dependencies": {
+    "@vue/cli": "^5.0.0-beta.3"
+  }
+}

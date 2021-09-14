@@ -1,0 +1,1 @@
+# microfrontend-webpack-module-federation-sandbox
